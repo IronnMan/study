@@ -1,1 +1,2 @@
 Android Studio 下载地址 [https://developer.android.com/studio/index.html?hl=zh-cn] (https://developer.android.com/studio/index.html?hl=zh-cn)
+<a href="https://developer.android.com/studio/index.html?hl=zh-cn" target=_"bank"></a>
