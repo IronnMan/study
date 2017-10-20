@@ -6,3 +6,5 @@
 
 
 [Android Studio 下载地址](https://developer.android.com/studio/index.html?hl=zh-cn)
+
+[安装 Android Studio 指导](https://developer.android.com/studio/install.html?hl=zh-cn)
