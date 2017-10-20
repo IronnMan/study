@@ -16,4 +16,4 @@
 
 一直选择默认安装，就会进入下面这个地方👇
 
-![MyApplication](img/MyApplication.png "This is MyApplication Project")
+![MyApplication](img/MyApplocation.png "This is MyApplication Project")
