@@ -23,3 +23,15 @@
 ![virtual device configuration](img/virtual-device-configuration.png "Virtual Device Configuration")
 
 ![sdk quickfix installation](img/sdk-quickfix-installation.png "SDK Quickfix Installation")
+
+等待它下载完成，然后点击 Finish, 到了下面这个地方。
+
+![ready config](img/ready-config.png "Rady Config")
+
+选择默认名，然后 Next，进入这下面这个界面。
+
+![your virtual devices](img/your-virtual-devices.png "Your Virtual Devices")
+
+大功告成！！！🎆
+
+![Android 8.0](img/android-O.png "Android 8.0")
