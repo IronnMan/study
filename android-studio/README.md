@@ -13,3 +13,7 @@
 2. 安装完成之后，点击 Start a new Android Studio Project，你会进入下面这个地方。
 
 ![create project](img/create-new-project.png "Create New Project")
+
+一直选择默认安装，就会进入下面这个地方👇
+
+![MyApplication](img/MyApplication.png "This is MyApplication Project")
