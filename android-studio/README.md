@@ -8,3 +8,8 @@
 [Android Studio 下载地址](https://developer.android.com/studio/index.html?hl=zh-cn)
 
 [安装 Android Studio 指导](https://developer.android.com/studio/install.html?hl=zh-cn)
+
+
+2. 安装完成之后，点击 Start a new Android Studio Project
+
+![create project](img/create-new-project.png "Create New Project")
