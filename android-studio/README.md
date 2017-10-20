@@ -35,3 +35,6 @@
 大功告成！！！🎆
 
 ![Android 8.0](img/android-O.png "Android 8.0")
+
+
+[原文地址，也就是 windows 的](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=397823)
