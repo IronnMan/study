@@ -21,3 +21,5 @@
 ![into avd manager](img/into-avd-manger.png "Into AVD Manger")
 
 ![virtual device configuration](img/virtual-device-configuration.png "Virtual Device Configuration")
+
+![sdk quickfix installation](img/sdk-quickfix-installation.png "SDK Quickfix Installation")
