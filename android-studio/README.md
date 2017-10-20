@@ -7,7 +7,7 @@
 
 [Android Studio 下载地址](https://developer.android.com/studio/index.html?hl=zh-cn)
 
-[安装 Android Studio 指导](https://developer.android.com/studio/install.html?hl=zh-cn)
+[Android Studio 安装指导](https://developer.android.com/studio/install.html?hl=zh-cn)
 
 
 2. 安装完成之后，点击 Start a new Android Studio Project，你会进入下面这个地方。
@@ -17,3 +17,7 @@
 一直选择默认安装，就会进入下面这个地方👇
 
 ![MyApplication](img/MyApplocation.png "This is MyApplication Project")
+
+![into avd manager](img/into-avd-manger.png "Into AVD Manger")
+
+![virtual device configuration](img/virtual-device-configuration.png "Virtual Device Configuration")
