@@ -30,7 +30,7 @@
 
 选择默认名，然后 Next，进入这下面这个界面。
 
-![your virtual devices](img/your-virtual-devices.png "Your Virtual Devices")
+![your virtual devices](img/your-virtual-Devices.png "Your Virtual Devices")
 
 大功告成！！！🎆
 
